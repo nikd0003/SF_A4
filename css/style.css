@@ -211,6 +211,7 @@ body {
 
 .content {
 	flex: 1 0 auto;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
 .section2 {
