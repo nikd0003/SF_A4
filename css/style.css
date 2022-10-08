@@ -7,14 +7,9 @@ vh – 1% высоты окна
 vmin – наименьшее из (vw, vh), в IE9 обозначается vm
 vmax – наибольшее из (vw, vh)
 
-Импорт шрифта. Делается всегда в начале!
-*/
+Импорт шрифта. Делается всегда в начале! */
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;0,800;1,400&display=swap');
-
-/** {
-    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-}*/
 
 /* Бэкграунд цвет color="#f6f2f2"  */
 
